@@ -1,6 +1,6 @@
 # Detección de Fraude en Transacciones de Bitcoin 🪙🔍
 
-Este proyecto corresponde al **Práctico 2 de la Mentoría 09**, orientado al **análisis exploratorio y curación de datos** para un problema de detección de fraude en transacciones financieras utilizando el dataset **Elliptic Bitcoin Dataset**.
+Este proyecto corresponde a la **Mentoría: Detección de fraude en transferencias y transacciones entre usuarios** de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones, utilizando el dataset **Elliptic Bitcoin Dataset**.
 
 ## 📌 Objetivos
 - Analizar un conjunto de transacciones de Bitcoin etiquetadas como **fraudulentas** o **legítimas**.
