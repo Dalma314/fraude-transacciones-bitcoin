@@ -1,4 +1,4 @@
-# Detección de Fraude en Transacciones de Bitcoin 🪙🔍
+# Detección de Fraude en Transacciones de Bitcoin
 
 Este proyecto corresponde a la **Mentoría: Detección de fraude en transferencias y transacciones entre usuarios** de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones dictada por FaMAF (UNC).
 
