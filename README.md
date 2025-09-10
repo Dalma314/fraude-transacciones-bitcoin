@@ -23,8 +23,7 @@ Este dataset modela las transacciones como un **grafo dirigido**, con aristas re
 ## 🚀 Estructura del repositorio
 ```
 fraude-transacciones-bitcoin/
-│── notebooks/
-│   └── practico2_fraude_bitcoin.ipynb
+│── fraude.ipynb
 │── requirements.txt
 │── README.md
 ```
