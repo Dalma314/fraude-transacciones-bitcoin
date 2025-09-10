@@ -42,7 +42,7 @@ fraude-transacciones-bitcoin/
 
 3. Abrir el notebook:
    ```bash
-   jupyter notebook notebooks/practico2_fraude_bitcoin.ipynb
+   jupyter notebook fraude.ipynb
    ```
 
 ## 📊 Resultados
@@ -50,7 +50,3 @@ En el análisis exploratorio se presentan:
 - Distribución de etiquetas (fraude vs legítimas)
 - Evolución temporal de las transacciones
 - Propiedades estructurales del grafo (grado, densidad, conectividad)
-
-## 🌐 Demo online
-Podés abrir el notebook directamente en Google Colab:  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<tu-usuario>/fraude-transacciones-bitcoin/blob/main/notebooks/practico2_fraude_bitcoin.ipynb)
